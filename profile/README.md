@@ -2,17 +2,17 @@
 
 # Materials Nexus
 
-Our revolutionary modelling platform, born out of research at Cambridge University, accelerates materials research and development by harnessing the power of AI. 
-We work with partners who are active in material R&D, enabling them to use our unprecedented speed and accuracy to increase their understanding of how their materials work, how to improve them, and how to design new more sustainable materials.
+We are transforming materials R&D
 
-## ☀️ Climate crisis needs action
+Using AI and advanced quantum calculations we are accelerating new material discovery and design.
 
-There is strong pressure on companies to decarbonise, fuelled by growing consumer concern and increasingly restrictive regulation and carbon taxes
+The importance of advanced materials is critical as we move to net-zero, yet their social, environmental and economic costs are high and significant performance improvements are essential.
 
-## 🖥️ We have the tools necessary
+Finding next-generation materials that are more accessible, less damaging and more effective through traditional methods requires decades of research which is too slow for our imminent needs.
 
-Computer capability is now good enough to begin tackling real-world problems, due to increases in processor power and advances in AI and quantum mechanical modelling
+Our ground-breaking software can accurately and rapidly model new material properties to accelerate development of next-generation materials for a net-zero world.
 
 ## Learn more
 
-[Our team](https://www.materialsnexus.com/team), [Sustainability](https://www.materialsnexus.com/sustainability)
+
+[Our website](https://www.materialsnexus.com/) [Our team](https://www.materialsnexus.com/team)
