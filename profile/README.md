@@ -1,4 +1,4 @@
-[![Materials Nexus Banner](./assets/banner.png)](https://www.materialsnexus.com)
+[![Materials Nexus Banner](../assets/banner.png)](https://www.materialsnexus.com)
 
 # Materials Nexus
 
